@@ -28,10 +28,10 @@ The objective of the Home Lab Project is to establish a controlled environment f
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
+<p align="center">
+Creating Windows VM: <br/>
+<img src="https://imgur.com/a/8vhRuy8" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
