@@ -31,11 +31,17 @@ The objective of the Home Lab Project is to establish a controlled environment f
 
 <p align="center">
 Creating Windows VM: <br/>
-<img src="https://imgur.com/a/8vhRuy8.png"/>
+<br />
+<img src="1.creating windows WM .png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<br />
+<p align="center">
+Creating Windows VM: <br/>
+<br />
+<img src="1.creating windows WM .png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
 
-<p align="center">
-  blah<br/>
-<img src="1.creating windows WM .png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
