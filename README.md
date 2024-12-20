@@ -38,4 +38,4 @@ Creating Windows VM: <br/>
 
 <p align="center">
   blah<br/>
-<img src="1.creating windows WM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="1.creating windows WM .png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
